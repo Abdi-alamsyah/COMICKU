@@ -1,0 +1,43 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "A Dragon Slayer's Peerless Regression; Yongsaljaui Cheonha Jeil Hoegwi",
+  "status": "Ongoing",
+  "author": "Maeng Ho",
+  "artist": "Maeng Ho Studio",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah bertarung mati-matian dan mengorbankan segalanya untuk membunuh sang Raja Naga, pahlawan kita mendapati dunia telah hancur lebur tanpa sisa. Tepat saat keputusasaan mengambil alih, sebuah kekuatan misterius memberikannya kesempatan kedua. Ia kembali ke masa lalu (regression) dengan membawa seluruh ingatan dan pengalaman bertarungnya. Kini, ia bersumpah untuk mengubah takdir, menghentikan kiamat sebelum terjadi, dan menjadi eksistensi terkuat yang tak tertandingi.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstadata/main/assets/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Mati dan Kembali",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch001/page-001.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch001/page-002.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch001/page-003.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch001/page-004.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch001/page-005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Langkah Pertama yang Berbeda",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch002/page-001.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch002/page-002.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch002/page-003.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch002/page-004.jpg",
+        "https://raw.githubusercontent.com/username/monstadata/main/assets/dragonslayer-peerless-regression/ch002/page-005.jpg"
+      ]
+    }
+  ]
+}
